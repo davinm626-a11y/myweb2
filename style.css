@@ -47,3 +47,51 @@ body{
     display:block;
 }
 
+.content{
+    width:90%;
+    margin:auto;
+    height:420px;
+    padding:0.1px;
+    background:3fff;
+    color:#333;
+}
+
+.border{
+    border:2px solid #4887b9;
+    margin-top:1pc;
+    margin-bottom:1pc;
+  ` margin-left:2pc;
+    margin-right:2pc;
+}
+
+.kiri{
+    widht:70%;
+    float:left;
+    margin:auto;
+    background:#fff;
+    height:420px;
+}
+
+.kanan{
+    widht:30%;
+    float:left;
+    margin:auto;
+    background:#fff;
+    height:420px;
+}
+
+.undercor{
+    text-decoration:none;
+}
+
+.footer{
+    widht:90%;
+    margin:auto;
+    height:40px;
+    line-height:40px;
+    bacground:#417aa8;
+    color:#fff;
+    margin-bottom: 1pc;
+}
+
+  
