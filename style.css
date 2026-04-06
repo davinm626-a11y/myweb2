@@ -1,5 +1,5 @@
 body{
-  background:#000000;
+  background:#ffffff;
   color:#333;
   width:100%;
   font-family:sans-serif;
@@ -89,7 +89,7 @@ body{
     margin:auto;
     height:40px;
     line-height:40px;
-    bacground:#417aa8;
+    background:#417aa8;
     color:#fff;
     margin-bottom: 1pc;
 }
